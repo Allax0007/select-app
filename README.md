@@ -30,5 +30,6 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list -->
 # select-app
 The application on Github is incomplete and is for demo purposes only.
+- [Go Demo](https://allax0007.github.io/select-app)
 
 To run the full functionality, please `git pull` the repository locally, remove `base: '/select-app/'` in `vite.config.ts`, build it with `pnpm build`, and run `main.go`.
